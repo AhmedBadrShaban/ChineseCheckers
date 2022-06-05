@@ -1,22 +1,15 @@
-Team members:
-	Names			IDs             Emails
+   
+|Ahmed Badr Shaaban      ahmedbadrr417@gmail.com    |
+  
  
-|1- Ahmed Badr Shaaban     | 20190019 |   ahmedbadrr417@gmail.com    |
-|2- Mariam Mohamed Gharieb | 20190522 |	  mariamgharieb24@gmail.com  |
-|3- Mohamed Amr Kamal 	   | 20190468 |   mohamed.kamal.ru@gmail.com |
-|4- Adham Mohamed Gomaa    | 20190788 |   adhamgoma5050@gmail.com    |
-|5- Mohamed Adel Abdallah  | 20190452 |   costamohamed105@gmail.com  |
-
----------------------------------------------------------------------|
-
 Insturction:
 
-we used a Python programming language.
+I used a Python programming language.
 
 the execuatble file is "ChinChecker.py".
 
-In our code we must import numpy library and other libraries which are metioned in code and ready for running(there are in venv file and ready to use), 
-we implement a miniMax algorithm and AlphaBeta Algorithm.
+In the code you must import numpy library and other libraries which are metioned in code and ready for running.
+ implementiatio of  miniMax algorithm and AlphaBeta Algorithm.
 
 Hurestic Description :
 
